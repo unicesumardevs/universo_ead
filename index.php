@@ -1,11 +1,9 @@
 <?php include "inc/header.php"?>
-<div class="content">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-            <h1 class="text-center">Conteúdo</h1>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include "templates/banner.php"?>
+<?php include "templates/cursos_destaques.php"?>
+<?php include "templates/tipos_de_curso.php"?>
+<?php include "templates/depoimentos.php"?>
+<?php include "templates/beneficios.php"?>
+<?php include "templates/duvidas_frequentes.php"?>
+<?php include "templates/modelo.php"?>
 <?php include "inc/footer.php"?>
