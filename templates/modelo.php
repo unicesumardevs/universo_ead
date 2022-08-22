@@ -9,7 +9,7 @@
 </div>
 <style>
     .modelo .tmp{
-        background: red;
+        background: black;
         color: #fff
     }
 </style>
